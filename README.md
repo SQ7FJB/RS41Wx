@@ -22,7 +22,7 @@ Have a nice day ;)
  * 23.01.2017 - Test APRS code, small fixes in GPS code by SQ5RWU
  * 06.06.2017 - APRS code fix, some code cleanup
  * 09.06.2019 - Dirty Removing RTTY, moving APRS settings to the config by SQ9MDD
-
+ * 14.06.2020 - Create communication with SQ9MDD-WxStation  by SQ7FJB
 
 #TODO
  * More APRS config options
